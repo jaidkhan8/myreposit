@@ -1,0 +1,9 @@
+1. Create GitHub acc.
+2. create empty repository in git hub acc.
+3. create folder/file in local system
+4. open terminal move to your repository/folder
+5. git config --global user.name " " 
+6. git config --global user.email " " 
+7. git push u- origin master
+changes
+ new change
