@@ -6,3 +6,4 @@
 6. git config --global user.email " " 
 7. git push u- origin master
 changes
+ new change
